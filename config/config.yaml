@@ -1,0 +1,7 @@
+cluster_name: chess-cluster
+software_environment_name: chess-env
+n_workers: 8
+worker_cpu: 4
+worker_memory: 16
+scheduler_memory: 16
+use_local_cluster: False
