@@ -36,7 +36,7 @@ Note: This module can also be run on a Local cluster (your laptop). To do that, 
 - Check the **resources/output** folder to see the generated gif. 
 
 ### How to read the heatmap
-- Each game will have a corresponding heatmap. If a PGN has 5 games, there will be 5 gif files with event name as the file name.
+- Each game will have a corresponding heatmap. If a PGN has 5 games, there will be 5 gif files with event name (preceeded by number) as the file name.
 - Each gif consists of heatmaps for White and Black respectively.
 - Each frame in a gif is the heatmap for a ply in that game. All the heatmaps(for each ply) in a game combined together form the animated gif.
 - The legend represents the number of attackers (for each square).
