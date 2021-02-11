@@ -26,8 +26,8 @@ Chess games need to be provided as input in form of PGN files. An animated GIF i
     
 6. The chess games that need to be visualized should be given in a PGN file (or multiple files). These files should be placed in **resources/input** folder. 
 
-7. (Optional) Open **config/config.yaml** and modify the parameters (like number of workers, worker cpu, etc) according to your needs. 
-Note: This module can also be run on a Local cluster (your laptop). To do that, modify the value of the config parameter 'use_local_cluster' in config.yaml to 'True'
+7. (Optional) Open **config/config.yaml** and modify the parameters (like number of workers, worker cpu, etc) according to your needs. <br />
+Note: This module can also be run on a Local cluster (your laptop). To do that, update the value of the config parameter 'use_local_cluster' in config.yaml to 'True'
 
 ### Run the project
 - To generate heatmaps, run the chess_heatmap file <br />
