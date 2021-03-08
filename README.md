@@ -46,6 +46,6 @@ A chess game of Donald Byrne vs. Robert James Fischer, 1956 has been included as
 - Each frame in a gif is the heatmap for a ply in that game. All the heatmaps(for each ply) in a game combined together form the animated gif.
 - The legend represents the number of attackers (for each square).
 
-
+![FEN](https://user-images.githubusercontent.com/62924721/110308665-68c84500-8026-11eb-8814-3137a2fbdc78.PNG)
 
 
