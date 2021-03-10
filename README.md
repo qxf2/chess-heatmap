@@ -48,5 +48,5 @@ A chess game of Donald Byrne vs. Robert James Fischer, 1956 has been included as
 
 Here is an example of a single ply and its heatmap
 
-![Single_ply](https://user-images.githubusercontent.com/62924721/110587943-4d7e4680-819a-11eb-9def-a5f15d672101.jpg) ![0 Single Ply](https://user-images.githubusercontent.com/62924721/110587978-5a029f00-819a-11eb-8814-c8c1c47b44c3.gif)
+![Single_ply](https://user-images.githubusercontent.com/62924721/110588440-05abef00-819b-11eb-8d72-c60402e900ca.jpg)  ![0 Single Ply](https://user-images.githubusercontent.com/62924721/110587978-5a029f00-819a-11eb-8814-c8c1c47b44c3.gif)
 
