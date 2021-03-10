@@ -48,7 +48,7 @@ A chess game of Donald Byrne vs. Robert James Fischer, 1956 has been included as
 
 Here is an example of a single ply and its heatmap
 
-![Single_ply](https://user-images.githubusercontent.com/62924721/110588440-05abef00-819b-11eb-8d72-c60402e900ca.jpg) ![0 Single Ply](https://user-images.githubusercontent.com/62924721/110587978-5a029f00-819a-11eb-8814-c8c1c47b44c3.gif)
+![Single_ply](https://user-images.githubusercontent.com/62924721/110592466-5114cc00-81a0-11eb-9329-e241feb6531e.jpg) ![0 Single Ply](https://user-images.githubusercontent.com/62924721/110592482-583bda00-81a0-11eb-8bf6-cd739bf7117a.gif)
 
 In the heatmap gif, the first frame represents for each square, how many pieces of White have control (on that particular square). For instance, consider square f3. If White had a piece on f3, how many defenders does it have when it is captured. It is like a series of consecutive captures happening on f3 and the Queen on d1 will play a role. So, the control for that square will be 4. <br/>
 Similarly, the second frame represents for each square how many pieces of Black have control. 
