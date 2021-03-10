@@ -6,4 +6,4 @@ matplotlib==3.3.3
 seaborn==0.11.1
 pytest==6.2.2
 pyyaml
-chess_heatmap_qxf2>=0.0.0.6
+chess_heatmap_qxf2>=0.0.0.20
