@@ -9,5 +9,4 @@ def main():
     control_heatmap.generate_heatmap_images()
 
 if __name__ == "__main__":
-    main()
-    print("Please check the resource->output folder to view the heatmap")    
+    main() 
