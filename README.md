@@ -38,7 +38,7 @@ Note: This module can also be run on a Local cluster (your laptop). To do that, 
 ### Example
 A chess game of Donald Byrne vs. Robert James Fischer, 1956 has been included as an example. 
 
-
+![0 Third Rosenwald Trophy](https://user-images.githubusercontent.com/62924721/110588052-7acaf480-819a-11eb-9253-93fe3dd8d039.gif)
 
 ### How to read the heatmap
 - Each game will have a corresponding heatmap. If a PGN has 5 games, there will be 5 gif files with event name (preceeded by number) as the file name.
@@ -46,6 +46,7 @@ A chess game of Donald Byrne vs. Robert James Fischer, 1956 has been included as
 - Each frame in a gif is the heatmap for a ply in that game. All the heatmaps(for each ply) in a game combined together form the animated gif.
 - The legend represents the number of attackers (for each square).
 
-![FEN](https://user-images.githubusercontent.com/62924721/110308665-68c84500-8026-11eb-8814-3137a2fbdc78.PNG)
+Here is an example of a single ply and its heatmap
 
+![Single_ply](https://user-images.githubusercontent.com/62924721/110587943-4d7e4680-819a-11eb-9def-a5f15d672101.jpg) ![0 Single Ply](https://user-images.githubusercontent.com/62924721/110587978-5a029f00-819a-11eb-8814-c8c1c47b44c3.gif)
 
